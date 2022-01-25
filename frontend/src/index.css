@@ -5,12 +5,20 @@
 }
 
 * {
-    box-sizing: border-box;
+  
     font-family: 'Open Sans', sans-serif;
 }
 
 html, body {
-    background-color: #E5E5E5;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top:3%;
+    border: 0px;
+    border-radius: 10px;
+    border-style: solid;
+    height: 85vh;
+    background-color: #4abf60;
+
 }
 
 a, a:hover {
