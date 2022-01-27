@@ -1,0 +1,11 @@
+
+
+    .header{
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+        background-color: #eff3f6;
+    }
+
+    .carousel .carousel-item {
+  height: 500px;
+}
