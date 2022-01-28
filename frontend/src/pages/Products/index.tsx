@@ -1,15 +1,14 @@
-import { ProductList } from "components/ProductList";
+
+import { ProductsTable } from "components/ProductsTable";
+import { Summary } from "components/Summary";
 
 function Products () {
 
     return (
-
-
-        <div className="product-list-container">
-            <ProductList />
-
-        </div>
-
+        <>
+            <Summary />
+            <ProductsTable />
+        </>
     )
 
 }
